@@ -1,0 +1,6 @@
+site_name: R4HKZ - заметки на полях
+nav:
+  - Home: index.md
+  - About: about.md
+  - Круглые столы: 2025_04_23_r3/round_table.md
+theme: material
