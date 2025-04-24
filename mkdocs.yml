@@ -1,6 +1,6 @@
 site_name: R4HKZ - заметки на полях
-#nav:
-#  - Home: index.md
+nav:
+  - Home: index.md
 #  - About: about.md
-#  - Круглые столы: round_tables/
+  - Круглые столы: round_tables/
 theme: material
