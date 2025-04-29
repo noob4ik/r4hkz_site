@@ -69,3 +69,11 @@ extra:
     analytics:
         provider: google
         property: G-LQVHXEK15Y
+
+    social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/r4hkz
+      name: Канал в Telegram
+    - icon: fontawesome/brands/vk
+      link: https://vkvideo.ru/@r4hkz
+      name: Канал на VkVideo
