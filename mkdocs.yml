@@ -15,7 +15,7 @@ theme:
   name: material
 #  icon:
 #    logo: simple/helm
-#  custom_dir: docs_overrides
+  custom_dir: overrides
   language: ru
   features:
     - content.action.edit
