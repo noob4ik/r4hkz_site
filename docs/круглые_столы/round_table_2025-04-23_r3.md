@@ -2,20 +2,20 @@
 23 апреля 2025 19:00
 
 ## Участники
-- r4hkz
-- r4hlu 
-- ra4hhw
-- ub4huq
-- r4hgb
-- rw4pz Нижнекамск
-- r4hf
-- r4hfj
-- r4hlh
-- r4kk
-- rd4hx
-- r4hlg
-- r4hls
-- r4kr
+1. r4hkz
+2. r4hlu 
+3. ra4hhw
+4. ub4huq
+5. r4hgb
+6. rw4pz Нижнекамск
+7. r4hf
+8. r4hfj
+9. r4hlh
+10. r4kk
+11. rd4hx
+12. r4hlg
+13. r4hls
+14. r4kr
 
 ## События
 

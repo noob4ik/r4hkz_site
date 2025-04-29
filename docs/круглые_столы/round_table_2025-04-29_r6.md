@@ -5,18 +5,18 @@
 https://vkvideo.ru/video5280939_456239068
 
 ## Участники
-- r4hkz
-- r4him
-- r4hlu
-- ub4huq
-- r4hgc
-- r4hgd
-- r4hlg
-- r4hf
-- r4hgb
-- r4hls
-- r4hks
-- r4lhl
+0. r4hkz
+1. r4him
+2. r4hlu
+3. ub4huq
+4. r4hgc
+5. r4hgd
+6. r4hlg
+7. r4hf
+8. r4hgb
+9. r4hls
+10. r4hks
+11. r4lhl
 
 ## События прошедшие
 ###  КВ соревнования 26 апреля 2025
