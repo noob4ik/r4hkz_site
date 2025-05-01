@@ -29,7 +29,7 @@ https://youtu.be/80webhtlijY?si=LJWKYN96QWonqsDv
 к ней могу отдельно приложить yagi соответствующего диапазона
 
 
-цену вижу 12к руб
+цену вижу 10k руб
 
 
 https://youtu.be/BMEmMXfX2W0?si=o1k3ryHVNxnsz6sv
