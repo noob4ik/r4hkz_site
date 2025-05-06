@@ -2,7 +2,7 @@
 29 апреля 2025 19:00
 
 Запись трансляции
-https://vkvideo.ru/video5280939_456239068
+<iframe src="https://vkvideo.ru/video_ext.php?oid=5280939&id=456239068&hd=2&hash=4b40f0b9928c922a&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 ## Участники
 0. r4hkz
