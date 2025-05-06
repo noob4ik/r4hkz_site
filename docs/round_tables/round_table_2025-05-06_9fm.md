@@ -1,11 +1,22 @@
-# Круглый стол 29 апреля 2025 на частоте R6
+# Круглый стол 29 апреля 2025 на частоте дивизиона
 06 мая 2025 19:00
 
 Запись трансляции
-https://vkvideo.ru/videoxxx
+<iframe src="https://vkvideo.ru/video_ext.php?oid=5280939&id=456239069&hd=2&hash=90f6148d8c9b9ac0&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+
 
 ## Участники
 0. noob4ik
+1. горизонт
+2. соловей
+3. камыш
+4. лайнер
+5. луна
+6. киловат
+7. боец
+8. киров r4him
+9. плюс
+10. волжанин
 
 
 ## События прошедшие
@@ -60,5 +71,7 @@ https://vkvideo.ru/videoxxx
 Подробности можно прочитать в https://t.me/avtoprobeg63
 
 ### 10 мая - выставка радиотехники на Набережной
-- 
-те кто участвует- контроль
+
+будем организовывать работу палатки с техникой 
+<img src="../files/palatka_s_tehnikoy_kavdracycle.png" width="300" />
+
