@@ -2,7 +2,7 @@
 06 мая 2025 19:00
 
 Запись трансляции
-<iframe src="https://vkvideo.ru/video_ext.php?oid=5280939&id=456239069&hd=2&hash=90f6148d8c9b9ac0&autoplay=1" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://vkvideo.ru/video_ext.php?oid=5280939&id=456239069&hd=2&hash=90f6148d8c9b9ac0" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
 
 ## Участники
