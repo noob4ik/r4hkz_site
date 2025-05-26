@@ -26,6 +26,7 @@ theme:
     - search.suggest
     - toc.follow
     - toc.integrate
+
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -48,6 +49,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - attr_list
   - pymdownx.details
   - pymdownx.inlinehilite
   - pymdownx.highlight:
@@ -55,11 +57,16 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.magiclink
-
+plugins:
+  - literate-nav
 extra:
     analytics:
         provider: google
