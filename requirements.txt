@@ -1,3 +1,4 @@
 mkdocs
 mkdocs-material
 mkdocs-literate-nav
+mkdocs-calendar

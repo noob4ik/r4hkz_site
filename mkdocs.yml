@@ -67,6 +67,10 @@ markdown_extensions:
   - pymdownx.magiclink
 plugins:
   - literate-nav
+  - macros
+  - calendar:
+      calendar_file: 'calendar.md'  # файл с событиями
+      calendar_title: 'Мой календарь'
 extra:
     analytics:
         provider: google
@@ -79,3 +83,7 @@ extra:
     - icon: fontawesome/brands/vk
       link: https://vkvideo.ru/@r4hkz
       name: Канал на VkVideo
+    calendar_plugin:
+      start: 2025-09-01
+      end: 2026-01-01
+      tz: Europe/Samara
