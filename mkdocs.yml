@@ -67,7 +67,7 @@ markdown_extensions:
   - pymdownx.magiclink
 plugins:
   - literate-nav
-  - macros
+
 extra:
     analytics:
         provider: google
