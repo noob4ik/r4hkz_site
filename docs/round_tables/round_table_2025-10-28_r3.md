@@ -1,33 +1,31 @@
-# 2025 окт 28
+# Круглый стол радиолюбителей 28 октября 2025
 
 ## Участники
-1) r4hlh
-2) ra4hm
-3) ub4hvf
-4) r4hlg
-5) r4hfs
-6) r4hmm
-7) r4hdq
-8) r4him
-9) rz4hv
-10) r4kr
-11) r4hnf
-12) r4hgc
-13) ry4hah
-14) ub4huq
-15) UB4HVC
-16) R4KK
-17) r4hgb
-18) r4hkz
-19) ra4hhw
-20) r4hmz
 
-## Flipper zero
+1. R4HLH
+2. RA4HM
+3. UB4HVF
+4. R4HLG
+5. R4HFS
+6. R4HMM
+7. R4HDQ
+8. R4HIM
+9. RZ4HV
+10. R4KR
+11. R4HNF
+12. R4HGC
+13. RY4HAH
+14. UB4HUQ
+15. UB4HVC
+16. R4KK
+17. R4HGB
+18. R4HKZ
+19. RA4HHW
+20. R4HMZ
 
-## Что можешь рассказать?
+## Темы
 
-
-
-## Какие темы интересуют?
-
-## Реклама R3KGQ
+- Flipper Zero
+- Что можешь рассказать?
+- Какие темы интересуют?
+- Реклама R3KGQ
